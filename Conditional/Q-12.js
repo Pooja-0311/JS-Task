@@ -1,5 +1,5 @@
 let a = 60;
-let b = 60;
+let b = 80;
 let c = 60;
 
 if (a + b + c === 180){
@@ -12,4 +12,8 @@ if (a + b + c === 180){
    else {
     console.log("Scalene");
    }
+}
+else{
+    console.log("Not a valid triangle");
+    
 }
