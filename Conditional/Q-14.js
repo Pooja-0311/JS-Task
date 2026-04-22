@@ -11,8 +11,6 @@ if(username === "admin"){
 }
     else{
         console.log("Wrong username");
-        
-    
     }
 
     

@@ -15,5 +15,4 @@ if (a + b + c === 180){
 }
 else{
     console.log("Not a valid triangle");
-    
 }
